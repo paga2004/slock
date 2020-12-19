@@ -1,4 +1,4 @@
-slock - simple screen locker
+Custom build of slock
 ============================
 simple screen locker utility for X.
 
